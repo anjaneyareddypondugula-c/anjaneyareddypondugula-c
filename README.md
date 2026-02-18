@@ -1,4 +1,4 @@
-# Hi, I'm Anjaneya Reddy 👋
+# Hi, I'm Anjaneya Reddy 
 
 🎯 Embedded Software Engineer with 4+ years of experience in firmware 
 development, real-time systems, and automotive embedded platforms.
